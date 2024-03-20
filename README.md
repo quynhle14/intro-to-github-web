@@ -7,6 +7,6 @@
 *Italic text*
 
 [Link text](https://www.google.com/)
-![Rose](1081-1271375046TaAF.jpg)
+![Rose pic](1081-1271375046TaAF.jpg)
 
 New: this part is newly added. 
